@@ -21,7 +21,7 @@ Attribute Information (in order):<br>
     - LSTAT    % lower status of the population<br>
     - MEDV     Median value of owner-occupied homes in $1000's<br>
     
-    ## OBJECTIVE:
+   ## OBJECTIVE:
     1. Prediction of Boston-house Prices<br>
     2. Sklearn has Inbuilt SGD Linear regression, But How to Implement it manually.<br>
     3. Comparing SGD Linear and Manual linear Regression.
